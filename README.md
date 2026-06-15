@@ -1,6 +1,10 @@
-Hi, I'm Niels
+## Hi, I'm Niels
 
-I’m a motivated and hands-on learner focused on data, analytics, and building practical solutions.
+I’m a motivated and hands-on learner with a strong interest in data and analytics, focused on building practical and impactful solutions.
+
+I am currently developing my skills in Power BI, DAX, SQL, and Power Query. While I am still at the early stages of my journey, I am highly motivated to continue learning and improving every day.
+
+This repository reflects my progress, projects, and growing experience in data analytics.
 
 My Journey Into Data
 
